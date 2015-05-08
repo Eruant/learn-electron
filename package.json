@@ -1,0 +1,11 @@
+{
+  "name": "learn-electron",
+  "version": "0.0.1",
+  "main": "main.js",
+  "scripts": {
+      "start": "electron ./"
+  },
+  "devDependencies": {
+    "electron-prebuilt": "^0.25.2"
+  }
+}
